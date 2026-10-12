@@ -12,6 +12,10 @@ Raspberry Pi Pico（ラズベリーパイ ピコ）は、とっても小さく�
 * **重さ:** 10円玉1枚よりも軽い！
 * **ねだん:** 1個 **700円〜1,000円くらい**で買えるよ。
 
+### Raspberry Pi Pico
+
+[Pico-series Microcontrollers](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#pico-2-family)
+
 ---
 
 ### 2. Picoのすごいところ（とくちょう）
