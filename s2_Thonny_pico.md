@@ -1,16 +1,5 @@
-# Raspberry Pi Pico × MicroPython 超入門テキスト
+# Raspberry Pi Pico × MicroPython 開発環境
 ### 〜 Thonny（ソニー）のインストール＆起動プログラムのセットアップ手順ガイド 〜
-
----
-
-## ■ 概要
-
-| 項目 | 内容 |
-| :--- | :--- |
-| **対象年齢** | 小学生高学年 〜 中学生入門（保護者の方の一緒のサポートも歓迎！） |
-| **使用機材** | Raspberry Pi Pico / Pico W, USBケーブル（Micro-B または Type-C） |
-| **必要環境** | Windows PC または Mac（インターネット接続環境） |
-| **開発ソフト** | Thonny Python IDE（無料オープンソースソフト） |
 
 ---
 
