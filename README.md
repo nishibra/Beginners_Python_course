@@ -5,6 +5,9 @@
 ## 第2回開催日	2026年11月14日（土）13:00スタート
 ### 使用機材(2回)  Raspberry Pi Pico + USBケーブル + 汎用ボード+BNO055、ご自宅のWindows11-PC（インターネット接続,Gemini,Thonnyインストール済み) 
 
+[電子回路はこちらをご参照ください。](https://github.com/nishibra/ROBO-ONE_Beginners_auto/blob/main/Electronic_Circuit.md)
+
+
 ---
 
 ## ■ 概要
