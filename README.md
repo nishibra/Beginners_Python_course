@@ -31,12 +31,16 @@
 * Zoomでのオンライン受講方法と環境チェック、Thonny（ソニー）の使い方マスター
 * MicroPythonの基本（数字・計算・「もし〜なら」・「くりかえし」）
 * オンボードLEDをプログラミングでピカピカ光らせる「Lチカ」ミッション！
+
+[教材](pics/pico.jpg)
+
 -----
+
 #### 第1回講座概要
 まずGoogle Geminiをインストールします。次にThonnyをインストールし、起動後MicroPythonとpicoの起動ファイルをインストールします。
 ポイントは以下のインストール画面の設定です。お持ちのpicoと同じvariantを設定してください。
 
- [教材](pics/pico.jpg)
+
 
 [インストール画面](pics/inst_mcpython.png)
 
