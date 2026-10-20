@@ -10,7 +10,7 @@
 [倒立伸子の動画](https://www.youtube.com/shorts/Del15TIizIo)
 
 [ROBO-ONE Beginners公認ロボット](https://kondo-robot.com/archives/22223)
-
+---
 <ご購入方法>
 
 [KXR-R2K ローバー型K（自律タイプ）](https://store.shopping.yahoo.co.jp/robotyuenchi/ko-213.html)
