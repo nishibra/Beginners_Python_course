@@ -36,6 +36,8 @@
 まずGoogle Geminiをインストールします。次にThonnyをインストールし、起動後MicroPythonとpicoの起動ファイルをインストールします。
 ポイントは以下のインストール画面の設定です。お持ちのpicoと同じvariantを設定してください。
 
+ [教材](pics/pico.jpeg)
+
 [インストール画面](pics/inst_mcpython.png)
 
 Lチカのプログラム以降は動画をご覧ください。なおPythonコードはリポジトリーに上げました。s1_07_Lchika.pyなど参照ください。
