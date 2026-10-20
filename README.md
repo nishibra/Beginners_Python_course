@@ -36,7 +36,7 @@
 まずGoogle Geminiをインストールします。次にThonnyをインストールし、起動後MicroPythonとpicoの起動ファイルをインストールします。
 ポイントは以下のインストール画面の設定です。お持ちのpicoと同じvariantを設定してください。
 
- [教材](pics/pico.jpeg)
+ [教材](pics/pico.jpg)
 
 [インストール画面](pics/inst_mcpython.png)
 
