@@ -99,3 +99,20 @@ Lチカのプログラム以降は動画をご覧ください。なおPythonコ�
 [KXR-R2K ローバー型K（自律タイプ）](https://store.shopping.yahoo.co.jp/robotyuenchi/ko-213.html)
 
 [KXR-R2B ローバー型B（操縦タイプ）](https://store.shopping.yahoo.co.jp/robotyuenchi/ko-212.html)
+
+### 2回3回用教材
+2回,3回講座から使用する教材です。CPU/バッテリー/サーボモーはご自身でご準備ください。
+
+KXR-R2K ローバー型K（自律タイプ）をお持ちの方は以下の電子回路が搭載できます。
+
+電子回路部のみ(￥6,600.- 講座参加者価格)
+
+拡張ボード /IMU/サーボドライバー/サーボハブ/スイッチ/電源コネクター付き
+
+[電子回路部](pics/imu_servo_board.png)
+
+KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規に制作を考えている方はケース付きをご利用ください。
+
+ケース付き電子回路(￥9,900.- 講座参加者価格)
+
+[ケース付き](pics/imu_board_case.png)
