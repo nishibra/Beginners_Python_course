@@ -1,3 +1,4 @@
+# MuJoCo（Multi-Joint dynamics with Contact）
 MuJoCo（Multi-Joint dynamics with Contact）を使用すると、非常に綺麗で洗練された3D物理レンダリング画面でBNO055の姿勢を可視化できます。
 
 Python用の **`mujoco`** ライブラリを使い、直感的に扱えるMJCF（XMLフォーマットの3Dモデル定義）を作成して動かす構成が最もスムーズです。
