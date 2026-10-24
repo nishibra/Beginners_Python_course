@@ -127,9 +127,9 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 
 ![お勧めの足回り](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/blob/main/pics_mech/body.jpg)
 
-[AI Vision](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/tree/main)
+[VisionAIのgithub](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/tree/main)
 
-[3D-printerデータ](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/tree/main/stl)は以下です。
+足回りの[3D-printerデータ](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/tree/main/stl)は以下の3点です。
 
 - Body_V.stl
 - Battery_cover.stl
