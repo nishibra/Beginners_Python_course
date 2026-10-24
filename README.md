@@ -115,7 +115,7 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 
 #### [B002] ケース付き電子回路(￥9,900.-税込 講座参加者価格)
 
-[ケース付き電子回路](pics/imu_servo_case.jpg)
+![ケース付き電子回路](pics/imu_servo_case.jpg)
 
 ケースは以下のサイトのCpu_pico_case v49.stlとCpu_pico_cover v29.stlを3Dプリンターでプリントしたものです。自作できる方はご自身で製作してください。
 
@@ -141,7 +141,7 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 
 #### [B004] KRS3304-R2 2個付き(￥19,800.-税込 講座参加者価格)
 
-[KRS3304-R2 2個付きBody](pics/body.jpg)
+![KRS3304-R2 2個付きBody](pics/body.jpg)
 
 [KRS3304-R2購入先](https://www.amazon.co.jp/%E8%BF%91%E8%97%A4%E7%A7%91%E5%AD%A6-KRS-3304R2-ICS-03170/dp/B07L9R7RRZ/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=33GXWWQHG03G&dib=eyJ2IjoiMSJ9.LZUnOhAWhfCJK529DqYDRqmXrbQAtKx7jJ4YkE528QQ.BsNpjtyCu7rzeW5qvjg3ULSh65zp3afxTcH096B4XGU&dib_tag=se&keywords=krs3304r2&qid=1792827191&sprefix=krs3304r2%2Caps%2C197&sr=8-2&ufe=app_do%3Aamzn1.fos.35785624-70c4-44ae-a5c3-3f044f475d63)
 
