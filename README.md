@@ -125,7 +125,7 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 
 倒立伸子のサーボにはKRS-3300シリーズのすべてのサーボモーターを使用できると同時にバッテリー(Lipoバッテリー2セル/7.4Vなど)は自由に自己責任で使用できます。サーボモータについては通常KRS-3301を使用しますが、倒立伸子を行う場合はKRS3304-R2を使用します。 またバッテリーにLipoバッテリー2セル/7.4Vを使用する場合容量により大きさや形状が異なるため、それに対応すべくボディ形状を対応させるべく製作したVisionAI用のものを使うのが良いでしょう。
 
-![お勧めの足回り](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/blob/main/pics_mech/body.jpg)
+[お勧めの足回り](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/blob/main/pics_mech/body.jpg)
 
 [VisionAIのgithub](https://github.com/nishibra/ROBO-ONE_Beginners_VisionAI/tree/main)
 
