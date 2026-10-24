@@ -116,3 +116,12 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 ケース付き電子回路(￥9,900.-税込 講座参加者価格)
 
 [ケース付き](pics/imu_board_case.png)
+
+ケースは以下のサイトのCpu_pico_case v49.stlとCpu_pico_cover v29.stlを3Dプリンターでプリントしたものです。自作できる方はご自身で製作してください。
+
+[auto](https://github.com/nishibra/ROBO-ONE_Beginners_auto/blob/main/stl)
+
+
+
+
+
