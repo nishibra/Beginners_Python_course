@@ -109,13 +109,13 @@ KXR-R2K ローバー型K（自律タイプ）をお持ちの方は以下の電�
 
 拡張ボード /IMU/サーボドライバー/サーボハブ/スイッチ/電源コネクター付き
 
-[電子回路部](pics/imu_servo_board.png)
+[電子回路部](pics/imu_servo_board.jpg)
 
 KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規に制作を考えている方はケース付きをご利用ください。
 
 ケース付き電子回路(￥9,900.-税込 講座参加者価格)
 
-[ケース付き電子回路](pics/imu_board_case.png)
+[ケース付き電子回路](pics/imu_board_case.jpg)
 
 ケースは以下のサイトのCpu_pico_case v49.stlとCpu_pico_cover v29.stlを3Dプリンターでプリントしたものです。自作できる方はご自身で製作してください。
 
