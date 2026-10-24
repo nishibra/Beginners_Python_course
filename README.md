@@ -119,7 +119,7 @@ KXR-R2B ローバー型B（操縦タイプ）をお持ちの方または新規�
 
 ケースは以下のサイトのCpu_pico_case v49.stlとCpu_pico_cover v29.stlを3Dプリンターでプリントしたものです。自作できる方はご自身で製作してください。
 
-[auto stl data](https://github.com/nishibra/ROBO-ONE_Beginners_auto/blob/main/stl)
+[3Dプリンター用データ](https://github.com/nishibra/ROBO-ONE_Beginners_auto/blob/main/stl)
 
 
 
