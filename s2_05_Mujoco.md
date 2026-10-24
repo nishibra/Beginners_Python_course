@@ -57,7 +57,7 @@ while True:
     # Processing側で解析しやすいようにカンマ区切りで出力
     print(f"{roll:.2f},{pitch:.2f},{yaw:.2f}")
     time.sleep(0.02) # 50Hz程度で送信
-
+```
 ---
 
 ## 2. 3Dモデルファイルの作成 (`board.xml`)
