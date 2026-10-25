@@ -7,7 +7,10 @@ Python用の **`mujoco`** ライブラリを使い、直感的に扱えるMJCF�
 
 ## 1. 事前準備（ライブラリのインストール）
 
-PCのターミナルまたはThonnyの「システムシェルを開く」で以下を実行します。
+#### IDLEが入っていない場合
+IDLE を使用したい場合は、python.org 公式サイト から Python をダウンロードしてインストールすると、自動的に IDLE も一緒に導入されます。
+
+PCのターミナルで以下を実行します。
 
 ```bash
 pip install mujoco pyserial
@@ -16,7 +19,6 @@ pip install mujoco pyserial
 Raspberry Pi Picoと9軸IMUセンサー「BNO055」から取得した姿勢データ（Roll, Pitch, Yaw）を、PC上の**Processing**を使って3Dオブジェクト（立体モデル）としてリアルタイム描画・可視化する構成が最も手軽でおすすめです。
 
 ---
-
 
 1. **Pico (MicroPython)**: BNO055からI2Cでオイラー角データを取得し、USBシリアル通信（`print`）でPCへ送信。
 2. **PC (Processing)**: シリアル通信でデータを受け取り、3Dブロックを回転させて表示。
