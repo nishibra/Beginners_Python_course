@@ -8,7 +8,8 @@ Python用の **`mujoco`** ライブラリを使い、直感的に扱えるMJCF�
 ## 1. 事前準備（ライブラリのインストール）
 
 #### IDLEが入っていない場合
-IDLE を使用したい場合は、python.org 公式サイト から Python をダウンロードしてインストールすると、自動的に IDLE も一緒に導入されます。
+
+IDLE を使用したい場合は、[python.org 公式サイト](https://www.python.org/downloads/) から Python をダウンロードしてインストールすると、自動的に IDLE も一緒に導入されます。
 
 PCのターミナルで以下を実行します。
 
