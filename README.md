@@ -1,4 +1,5 @@
-# Beginners_Python_course
+### Beginners Python couse
+# 自律走行ロボット（倒立振子）プログラミング講座
 ### Raspberry Pi Pico × MicroPython 自律走行ロボット（倒立振子）プログラミング講座
 ### 〜 GY-BNO055姿勢センサとKRSモータを制御して、倒れないロボット作りに挑戦しよう！ 〜
 
