@@ -4,7 +4,7 @@
 ### 〜 GY-BNO055姿勢センサとKRSモータを制御して、倒れないロボット作りに挑戦しよう！ 〜
 
 ## 第3回開催日	2026年12月12日（土）13:00スタート
-### 使用機材(3回)  Raspberry Pi Pico + USBケーブル + pico拡張ボード+シリアル変換+KRSサーボ+バッテリー、ご自宅のWindows11-PC（インターネット接続,Gemini,Thonnyインストール済み) 
+### 使用機材(3回)  Raspberry Pi Pico + USBケーブル + pico拡張ボード+シリアル変換I/F+KRSサーボ+バッテリー、ご自宅のWindows11-PC（インターネット接続,Gemini,Mujoco,Thonnyインストール済み) 
 
 [教材用の電子回路はこちらをご参照ください。](https://github.com/nishibra/ROBO-ONE_Beginners_auto/blob/main/Electronic_Circuit.md)
 
