@@ -31,6 +31,8 @@ UARTで機器同士をつなぐ際は、以下の3つを合わせる必要があ
 | **ボーレート（通信速度）** | `9600` や `115200` bps など、送受信側で完全に同じ数値に設定する |
 | **データ形式** | 通常は「データ8ビット / パリティなし / ストップビット1（8N1）」を使用 |
 
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqFup7czFKehhmW7pfX9CJnQz1Xkgfn-N3Xeq6JRbV-j27kufKXn0BHWc&s=10
+
 ### MicroPythonでの基本的なコード例
 
 `GP0` と `GP1`（UART0）を使って、115200bpsで文字列を送信し、受信データがあれば読み取る最小構成です。
