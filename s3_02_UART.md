@@ -1,3 +1,4 @@
+# UART
 **Raspberry Pi PicoのUART（ユーアート）**とは、マイコン（RP2040 / RP2350）が外部のデバイス（PC、GPSモジュール、Bluetoothモジュール、別のマイコンなど）と**1対1でシリアル通信を行うための機能**です。
 
 正式名称は *Universal Asynchronous Receiver-Transmitter*（汎用非同期送受信機）で、クロック信号線を使わず、あらかじめ決めた通信速度（ボーレート）を頼りにデータを1ビットずつ順番に送受信します。
